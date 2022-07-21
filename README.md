@@ -31,7 +31,7 @@
   </div>
   
 <!-- Redes Sociais - dev.to
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GS-Gabriel/GS-Gabriel/blob/output/github-contribution-grid-snake.svg)
   
 </div> -->
 
