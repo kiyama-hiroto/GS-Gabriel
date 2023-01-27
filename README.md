@@ -2,8 +2,8 @@
 
 - 👨 Meu nome é Gabriel Sousa.
 - ⚙🖥💻 Desenvolvimento de Sistemas / Senai CTTI.
-- 📚📐 Engenharia de Materiais / CEFET-MG. 
-- 💬 18 anos.
+- 📚 Olimpiada do Conhecimento Senai MG. #53 
+- 💬 19 anos.
 - 🌎 Belo Horizonte / Minas Gerais.
 
 
