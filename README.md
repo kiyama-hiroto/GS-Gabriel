@@ -1,4 +1,4 @@
-## Olá!! Eu sou o Gabriel, estudante de tecnologias!
+## Hello!! Eu sou o Gabriel, estudante de tecnologias!
 
 - 👨 Meu nome é Gabriel Sousa.
 - ⚙🖥💻 Desenvolvimento de Sistemas / Senai CTTI.
