@@ -1,10 +1,10 @@
 ## Hello!! Eu sou o Gabriel, estudante de tecnologias!
 
-- 👨 Meu nome é Gabriel Sousa.
-- ⚙🖥💻 Desenvolvimento de Sistemas / Senai CTTI.
-- 📚 Olimpiada do Conhecimento Senai MG. #53 
+- ⚙🖥💻 Desenvolvimento de Sistemas / Senai CTTI ✔
+- ⚙📚 Engenharia de Materiais / CEFET-MG
+- 📚💻 Olimpiada do Conhecimento Senai MG #53 
 - 💬 19 anos.
-- 🌎 Belo Horizonte / Minas Gerais.
+- 🌎 Belo Horizonte / Minas Gerais
 
 
 <div align="center">
