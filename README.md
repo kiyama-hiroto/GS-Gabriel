@@ -2,7 +2,6 @@
 
 - ⚙🖥💻 Desenvolvimento de Sistemas / Senai CTTI ✔
 - ⚙📚 Engenharia de Materiais / CEFET-MG
-- 📚💻 Olimpiada do Conhecimento Senai MG #53 
 - 💬 19 anos.
 - 🌎 Belo Horizonte / Minas Gerais
 
