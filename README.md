@@ -1,10 +1,5 @@
-## Hello!! Eu sou o Gabriel, estudante de tecnologias!
-
 - ⚙🖥💻 Desenvolvimento de Sistemas / Senai CTTI ✔
 - ⚙📚 Engenharia de Materiais / CEFET-MG
-- 💬 19 anos.
-- 🌎 Belo Horizonte / Minas Gerais
-
 
 <div align="center">
   <a href="https://github.com/GS-Gabriel">
